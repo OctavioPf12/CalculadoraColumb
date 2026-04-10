@@ -1,1 +1,2 @@
-# CalculadoraColumb
+Este programa en hecho con el lenguaje Python aplica la Ley de Coulomb para calcular la fuerza eléctrica neta sobre una carga objetivo. Primero se ingresan varias cargas con sus posiciones en el plano. Luego se ingresa la carga objetivo. El programa calcula la fuerza individual que cada carga ejerce sobre esa carga objetivo, descomponiéndola en componentes en x y en y. Después suma todas las componentes para obtener la fuerza neta resultante y finalmente calcula su magnitud total.
+
